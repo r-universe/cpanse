@@ -1,10 +1,10 @@
 [
   {
-    "package": "protViz",
+    "package": "recmap",
     "oncran": true
   },
   {
-    "package": "recmap",
+    "package": "protViz",
     "oncran": true
   }
 ]
