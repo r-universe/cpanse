@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cloudUtil"]
 	path = cloudUtil
 	url = https://github.com/cran/cloudUtil
-	shallow = true
-	registered = true
 [submodule "protViz"]
 	path = protViz
 	url = https://github.com/cpanse/protviz
-	shallow = true
-	registered = true
 [submodule "recmap"]
 	path = recmap
 	url = https://github.com/cpanse/recmap
-	shallow = true
-	registered = true
