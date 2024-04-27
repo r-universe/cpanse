@@ -8,9 +8,6 @@
 [submodule "protViz"]
 	path = protViz
 	url = https://github.com/cpanse/protviz
-[submodule "rawDiag"]
-	path = rawDiag
-	url = https://github.com/cpanse/rawdiag
 [submodule "recmap"]
 	path = recmap
 	url = https://github.com/cpanse/recmap
